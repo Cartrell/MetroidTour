@@ -1,0 +1,8 @@
+<animation-list
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:oneshot="false">
+    <item android:drawable="@drawable/item_screw0" android:duration="100" />
+    <item android:drawable="@drawable/item_screw1" android:duration="100" />
+    <item android:drawable="@drawable/item_screw2" android:duration="100" />
+    <item android:drawable="@drawable/item_screw3" android:duration="100" />
+</animation-list>

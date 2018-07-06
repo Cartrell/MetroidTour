@@ -1,0 +1,12 @@
+<animation-list
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:oneshot="false">
+    <item android:drawable="@drawable/enemy_zeela0" android:duration="50" />
+    <item android:drawable="@drawable/enemy_zeela2" android:duration="50" />
+    <item android:drawable="@drawable/enemy_zeela0" android:duration="50" />
+    <item android:drawable="@drawable/enemy_zeela2" android:duration="50" />
+    <item android:drawable="@drawable/enemy_zeela1" android:duration="50" />
+    <item android:drawable="@drawable/enemy_zeela3" android:duration="50" />
+    <item android:drawable="@drawable/enemy_zeela1" android:duration="50" />
+    <item android:drawable="@drawable/enemy_zeela3" android:duration="50" />
+</animation-list>

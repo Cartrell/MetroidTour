@@ -1,0 +1,12 @@
+<animation-list
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:oneshot="false">
+    <item android:drawable="@drawable/enemy_mother_brain0" android:duration="1000" />
+    <item android:drawable="@drawable/enemy_mother_brain1" android:duration="150" />
+    <item android:drawable="@drawable/enemy_mother_brain2" android:duration="150" />
+    <item android:drawable="@drawable/enemy_mother_brain3" android:duration="150" />
+    <item android:drawable="@drawable/enemy_mother_brain4" android:duration="150" />
+    <item android:drawable="@drawable/enemy_mother_brain5" android:duration="150" />
+    <item android:drawable="@drawable/enemy_mother_brain6" android:duration="150" />
+    <item android:drawable="@drawable/enemy_mother_brain7" android:duration="150" />
+</animation-list>

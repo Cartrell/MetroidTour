@@ -1,0 +1,16 @@
+<animation-list
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:oneshot="false">
+    <item android:drawable="@drawable/enemy_polyp0" android:duration="1000" />
+    <item android:drawable="@drawable/enemy_polyp1" android:duration="100" />
+    <item android:drawable="@drawable/enemy_polyp2" android:duration="100" />
+    <item android:drawable="@drawable/enemy_polyp3" android:duration="100" />
+    <item android:drawable="@drawable/enemy_polyp0" android:duration="100" />
+    <item android:drawable="@drawable/enemy_polyp1" android:duration="100" />
+    <item android:drawable="@drawable/enemy_polyp2" android:duration="100" />
+    <item android:drawable="@drawable/enemy_polyp3" android:duration="100" />
+    <item android:drawable="@drawable/enemy_polyp0" android:duration="100" />
+    <item android:drawable="@drawable/enemy_polyp1" android:duration="100" />
+    <item android:drawable="@drawable/enemy_polyp2" android:duration="100" />
+    <item android:drawable="@drawable/enemy_polyp3" android:duration="100" />
+</animation-list>

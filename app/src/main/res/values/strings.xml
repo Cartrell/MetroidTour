@@ -1,0 +1,126 @@
+<resources>
+  <string name="app_name">Metroid Tour</string>
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+
+  <!-- categories -->
+  <string name="locations">Locations</string>
+  <string name="items">Items</string>
+  <string name="enemies">Enemies</string>
+  <string name="soundTracks">Soundtracks</string>
+
+  <!-- location names -->
+  <string name="brinstar">Brinstar</string>
+  <string name="norfair">Norfair</string>
+  <string name="kraidsLair">Kraid\'s Lair</string>
+  <string name="ridleysLair">Ridley\'s Lair</string>
+  <string name="tourian">Tourian</string>
+
+  <!-- location descriptions -->
+  <string name="brinstarDescription">Your mission begins in an area of tunnels called Brinstar. Here the tunnels are composed mainly of stone and there are long shafts leading up and down. Prepare to meet many dive-bombing Skrees and Rios as you search for power up items. This is the easiest area of the game to move around in, as the enemies are fairly weak compared to other locations.</string>
+  <string name="kraidsLairDescription">This hideout is home to the mini-boss known as Kraid, a reptilian monstrosity which fires spikes from his belly. The entrance to his hideout is very close to the starting position of the game, but you won\'t be able to gain access to it until you find the Bombs power up. The enemies here are also stronger than those in Brinstar, so beware. If you want to pick a fight with Kraid, you'll need lots of missiles. A number of extra missile packs can be found throughout his hideout.</string>
+  <string name="norfairDescription">Norfair is a region of lava pools and glass bubbles. This is where you will some of the more powerful items, such as the Wave Beam, the High Jump Boots, and the awesome Screw Attack, not to mention more energy tanks and tons of missile packs. Take the Ice Beam with you and freeze enemies to use their temporarily frozen bodies as platforms in order to jump over high walls. In Norfair, many of the pathways which used to be clear have caved in or been filled by cooled lava. However, narrow pathways still exist inside the rubble. Never assume you\'ve found a dead end until you've fully explored every wall, floor, and ceiling. Norfair is also along the path to Ridley\'s Hideout.</string>
+  <string name="ridleysLairDescription">The battle against Ridley will be a real test for you. Ridley is a mutant dragon who is a servant of the Mother Brain. Although Ridley\'s lair is called Hideout II, you can visit it before you beat Kraid if you prefer. Ridley\'s hideout is wide and expansive, although only a fraction of it needs to be visited. Follow the map and guide below to tackle this region in the most efficient way possible. If you came with the Screw Attack, you have little to fear. But don\'t get cocky. This is still one of the more challenging areas in the game.</string>
+  <string name="tourianDescription">The final area is through a Metroid-infested halls and shafts. Before you can enter Tourian, you must defeat both Ridley and Kraid. Then you descend into the realm of the Mother Brain. Make sure that you are armed with the Ice Beam, or your chances for success are slim. Mother Brain has tailored Tourian to be as close to a paradise for the Metroids that she is breeding as possible. As a result, they have free reign over the entire area. And it won\'t take the Metroids very long to notice your arrival. While they view every moving thing as a potential food source, they are especially attracted to the energy that gets emitted by your power suit, and will not hesitate to home in on you and attack. There are a series of halls you must get through before the final encounter with Mother brain.\n\nMother Brain isn\'t going to simply let you walk up to her and demolish her. Her defense systems will be on high alert by the time you reach her. The cannons will be firing and the Rinkas will spawn continuously.\n\nAs soon as you smash Mother Brain\'s stupid face  with enough missiles, she will deteriorate and trigger a self-destruct sequence that threatens to blow up Tourian! You have a short, and limited time, but your only hope of survival is to escape by ascending a long shaft behind Mother Brain\'s chamber. Time to haul ass and get the hell oughta Dodge! When you have escaped, that will be the end of a successful game.</string>
+
+  <!-- item names -->
+  <string name="maruMari">Maru Mari</string>
+  <string name="missiles">Missiles</string>
+  <string name="energyTank">Energy Tank</string>
+  <string name="bombs">Bombs</string>
+  <string name="longBeam">Long Beam</string>
+  <string name="iceBeam">Ice Beam</string>
+  <string name="waveBeam">Wave Beam</string>
+  <string name="varia">Varia</string>
+  <string name="highJumpBoots">High Jump Boots</string>
+  <string name="screwAttack">Screw Attack</string>
+
+  <!-- item descriptions -->
+  <string name="maruMariDescription">This is the very first item you find in the game. Located just to the left of where you start, this too allows you to roll up into a ball to fit into narrow passageways. It also allows you to drop bombs when you find the Bombs Power-Up Item.</string>
+  <string name="missilesDescription">Missiles are your secondary form of attack. Most enemies can be defeated with a single shot. You can also use missiles to open red doors. However, unlike the arm beam, missiles are not infinite. Every missiles pack you find adds five missiles to your total inventory.  There are a total of 21 Missile Packs stashed throughout Zebes. You also gain the ability to carry 75 more missiles for each mini-boss, Kraid and Ridley, that you defeat, for a maximum total of 255 missiles. Missiles are all over the place, and are found in every area, except Tourian.</string>
+  <string name="energyTankDescription">These canisters provide you with an additional 100 units of energy to take more damage. They are littered throughtout planet Zebes, found in every area except Tourian.</string>
+  <string name="bombsDescription">The most fun item in the game. With these, you can place bombs while in a ball. The bombs explode shortly after. They can be used to take out smaller critters like Zoomers. More practically, they can also be used to clear walls and other obstructions to otherwise inaccessible areas.</string>
+  <string name="longBeamDescription">When you start the game, your beam projectiles don\'t travel very far. With this modifier, they will trave all the way off the screen, allowing you to attack enemies from far distances without having to engage them up close.</string>
+  <string name="iceBeamDescription">This allows you to freeze emenies with your beam. They are immobile, and cannot damage you while frozen. You can use them as stepping stones to reach high up places. Frozen enemies will thaw a few seconds later, so be careful when messing around with frozen enemies.</string>
+  <string name="waveBeamDescription">The most powerful beam in this game, your projectiles travel in wave-like patterns. They can also pass through walls, making them even more useful. Note that you cannot have the Ice and Wave beams at the same time. That would be cheatin\', and we can\'t have that, now can we? (:</string>
+  <string name="variaDescription">This item upgrades your suit, not only in appearance (OK, it\'s just a different color, but I mean, c\'mon - it\'s the NES), but damage taken from enemies is reduced. This is one of the mos useful items in the game, especially in the tougher areas. This, plus lots of Energy Tanks will definitely increase your survival rate. Unless of course, you suck at Metroid. Then all the Energy Tanks and Varias in the world won\'t help you. (:</string>
+  <string name="highJumpBootsDescription">Another item that allows you to access hard-to-reach areas, these boots increase how high you can jump.</string>
+  <string name="screwAttackDescription">The most powerful (and awesome) item in the game. This turns your suit into a badass slicin\' \'n dicin\' machine. Like Missiles, this item WILL kill almost any enemy with one hit. You use this by somersaulting through the air. This is some serious business, people! You can really fuck some shit up with this item.</string>
+
+  <!-- enemy names -->
+  <string name="zoomer">Zoomer</string>
+  <string name="nova">Nova</string>
+  <string name="zeela">Zeela</string>
+  <string name="viola">Viola</string>
+  <string name="zeb">Zeb</string>
+  <string name="gamet">Gamet</string>
+  <string name="geega">Geega</string>
+  <string name="zebbo">Zebbo</string>
+  <string name="mellow">Mellow</string>
+  <string name="mella">Mella</string>
+  <string name="memu">Memu</string>
+  <string name="reo">Reo</string>
+  <string name="geruta">Geruta</string>
+  <string name="holtz">Holtz</string>
+  <string name="sidehopper">Sidehopper</string>
+  <string name="deesgeega">Dessgeega</string>
+  <string name="ripper">Ripper</string>
+  <string name="ripper2">Ripper II</string>
+  <string name="skree">Skree</string>
+  <string name="multiviola">Multiviola</string>
+  <string name="waver">Waver</string>
+  <string name="squeept">Squeept</string>
+  <string name="polyp">Polyp</string>
+  <string name="lavaDragon">Lava Dragon</string>
+  <string name="rinka">Rinka</string>
+  <string name="metroid">Metroid</string>
+  <string name="kraid">Kraid</string>
+  <string name="ridley">Ridley</string>
+  <string name="motherBrain">Mother Brain</string>
+
+  <!-- enemy description -->
+  <string name="dessgeegaDescription">Desgeegas are a more evolved species of the Sidehopper family. They are stronger and faster than Sidehoppers. Desgeegas have very dangerous, spiky barbs growing from their large legs, and can jump much higher than their Kraid cousins. They use their thick, clawed feet to soften the blow of their high jumps. Desgeegas have an extremely high blood temperature, which allows them to thrive in hot, volcanic areas. Thus, they can be found in Ridley\'s lair. Dessgeegas are the second most powerful enemy in the region after Ridley himself.</string>
+  <string name="gametDescription">Gamets are large swarming creatures with an incredibly strong, rounded shell. Like the Zeb, they nest inside air vents and make b-line attacks towards their targets. Their hard shells allow them to ram their prey into a pulp or drive off large predators. Gamets also have sharp beaks for shearing off flesh. The sharp talons on their feet allow them to cling to the rock walls of Norfair or the interior of pipes, where they nest side-by-side in large numbers like bats.</string>
+  <string name="geegaDescription">A nimble, flying creature with terrible fangs that lives in vent pipes. Geegas usually live in packs and are extremely persistent. They live in Kraid\'s lair. They attack just like Zebs aand Gamuts, ramming their targets.</string>
+  <string name="gerutaDescription">Geruta are the top predators of Norfair. These massive creatures have a carapace shaped like a crab\'s, and their shells glow at high temperatures from the large amounts of energy stored within. Geruta are especially dangerous because they propel themselves through the air at high speeds by shooting flames from their feet. After lunging themselves at their prey, they grab them using their large pincers, pulling them apart and tearing off bits to the mouth located on the underside of the body.</string>
+  <string name="holtzDescription">The Holtz is an armor-plated flying monster that swoops down from the ceiling to attack its target. It has two large horns on its head, giving it the overall resemblance to battle helmets of ancient yore. The Holtz propels itself through the air by emitting superheated gas from its underside, allowing it to move through the air suddenly at high speeds. They are found in Ridley\'s lair, and are one of the strongest creaturs there.</string>
+  <string name="kraidDescription">A huge, hulking beast that can shoot a limitless supply of spikes from its belly. Kraid\'s hideout is located in a subdomain of Brinstar. As one of the two minibosses of Zebes, his defeat is required before the bridge to Tourian can be opened. Kraid\'s hairy back can also release razor-sharp, boomerang-shaped frills that fly high into the air. Kraid is not too intelligent, living mostly on instinct, and became another easily manipulated creature under Mother Brain\'s mind control.</string>
+  <string name="lavaDragonDescription">These seahorse-shaped dragons live inside the lava of Norfair. They are fiercely territorial and will rise from the lava to attack prey and intruders alike by spitting a stream of fireballs. When the fireballs knock their prey into the lava, they can feed at their leisure. A bit annoying; these dragons wanna sit back and shoot that shit at you from afar, because they don\'t have the balls to come face you like a man.</string>
+  <string name="mellaDescription">This small but aggressive creature is covered with flames. Fiercely territorial, it will swoop down and attack anything that comes close. Similar to the Mellow, they live in groups and will often swarm their prey to bring it down.</string>
+  <string name="mellowDescription">Small insect-like creatures that live in swarms. Mellows are extremely weak creatures that should pose little threat. Their only challenge comes from their erratic flying trajectory.</string>
+  <string name="memuDescription">Memu are fiercer cousins of the Mella, having evolved to withstand the high temperatures of Ridley\'s hideout. They also travel in large groups and will swarm anything that comes close. This behavior is a defensive mechanism that allows them to compete against the larger, fiercer creatures of Ridley\'s Hideout.</string>
+  <string name="metroidDescription">Metroids are the titular enemy of the series.\n\nMetroids are fearsome, flying parasites resembling jellyfish. The Metroid was discovered on the Planet SR388 in suspended animation, but was revived after 24 hour exposure to beta rays. On the return voyage to the Galactic Federation Headquarters, the GF starship was intercepted by Space Pirates who murdered the crew and stole the Metroids for reproduction as biological weapons.\n\nMetroids latch onto their prey with incredible strength, making them nearly impossible to dislodge. While attached, they completely drain the life energy of their prey, leaving the mummified remains. They can only be removed by freezing the creatures or with the force of an explosive blast, techniques that are usually fatal to the victim. Their gelatinous shells reflect and absorb nearly every kind of attack, leaving them invincible to conventional weaponry.\n\nMetroids will grow in size after consuming large amounts of energy. If enough energy is consumed, they will reproduce through mitosis, splitting into two. Metroids will also split if exposed to beta rays for a period of 24 hours. Their rapid reproductive cycle and the fearsome speed with which they consume their prey make them one of the most dangerous life-forms in the cosmos, potentially capable of destroying all of galactic civilization.\n\nThe best offense is to freeze them, which them makes their shells vulnernable to missile attacks.</string>
+  <string name="motherBrainDescription">A huge, organic supercomputer encased in a transparent glass container, and the final boss of the game. Mother Brain controls nearly every life-form on Zebes through her strong telepathic powers, bending them to her will. She is certainly a \"mother\" to her children, but a parent who rules with an iron rod of authority. Mother Brain\'s cold, logic-based thought processes show no sign of emotion, yet she is fed nutrients by the Zeebetites and is bathed in warm, life-sustaining fluids. She infuses life-force into the planet\'s every rock through her telepathic and biomechanical systems, truly making her deserving of the title \"mechanical life-vein\". Mother Brain intends to use the unstoppable power of the Metroid to take control over the entire universe and must be stopped at all costs.\n\nMother Brain can only be damaged by missiles, but her protective case is destroyed with just a single missile. She is also heavily guarded by cannons and swarms of Rinkas. Once Mother Brain is defeated, Tourian\'s self-destruct sequence will be activated, and you will have only three minutes to escape. Good skill (because I don\'t believe in luck), and don\'t let the music or timer cause you to panic! (Even though that escape-theme music is awesome in my opinion.)</string>
+  <string name="multiviolaDescription">After a Viola molts, it becomes a Multiviola, the large, spherical protoplasm that live in the fiery depths of Ridley\'s lair beneath Norfair. Multiviola move through the caves and tunnels of the hideout at high speed, bouncing off the walls and ceiling, making them very difficult to dodge and dealing massive amounts of damage. They are products of the life force Mother Brain breathes into the molten rock.</string>
+  <string name="novaDescription">A spider-like creature that can generate fire on its back. Novas proliferate in the fiery caverns of Norfair, where they feed on bacteria which in turn allows them to perpetually generate fire from their torso. Avoid touching a Nova unless you want to get burned.</string>
+  <string name="polypDescription">Polyps are exhaust shafts that expel blurbs of lava. It expels the laca at high speeds and irregular intervals. They can be found in Norfair.</string>
+  <string name="reoDescription">Reos fly up and down in a \"V\" pattern. If disturbed, they swoop down they will chase their target. They are very aggressive, tenacious beasts that have little concern for their surroundings.</string>
+  <string name="ridleyDescription">This well-known, huge dragon-like mini-boss lives in the depths of Norfair, deep below the surface of Zebes. Ridley may not look too intelligent on the outside, but he is an extremely clever and vicious animal. Ridley has the rank of high commanding officer of the Space Pirate Army. Unlike the other hostile creatures that inhabit Zebes, Ridley is not under Mother Brain\'s control, but is acting out of his own free will.</string>
+  <string name="rinkaDescription">Rinkas are fireballs that emerge from turrets within Tourian. These simple plasma-based life-forms are artificially bred from Mother Brain\'s life-support machinery and are used as a security device for the Mother Brain\'s compound to destroy \"pathogens\" invading the aseptic command base. Rinkas have simple sense organs that detect the presence of intruders, allowing them to home in on their target, but lack the ability to reverse direction. Still, when battling Mother Brain, Rinkas are a pain in the ass to deal with.</string>
+  <string name="ripperDescription">An extremely resilient creature that can seemingly defy the laws of gravity without the need for wings. There are many theories how Rippers can fly; one is that their flatulence consists of a condensed form of helium, which allows their propulsion. Rippers are fairly docile creatures and move back and forth very slowly. Their more aggressive cousins are known as Ripper IIs.</string>
+  <string name="ripper2Description">Another species of the Ripper family. Much more resilient than their Brinstar brethren, Ripper IIs can be found in Norfair, and are impervious to pretty much any attack. Beyond their thicker carapace, Ripper IIs have a flame-based propulsion system that allow them to move much quicker.</string>
+  <string name="skreeDescription">The second enemy you encounter. These bat-like enemies hang from the ceiling and dive at you, kamikaze style. When a Skree hits the ground, it spins its wings around like a drill and burrows, causing dirt and rock to fly up at high speeds, potentially causing harm to anything nearby. (But if you ask me, the original versions blew themselves up a few moments after reaching the ground. Crazy-ass bastards.)</string>
+  <string name="sidehopperDescription">Its name is derived specifically from its attack pattern: it hops from side to side. They basically consist of a head and two large, powerful legs that allow them to make great strides through the air. Sidehoppers can be found in Kraid\'s lair, and can be quite a nuisance due to their random and unpredictable nature. Sidehoppers also are able to defy gravity and jump upside-down on the ceiling.</string>
+  <string name="squeeptDescription">This fiery creature lives in Norfair, and leaps out of the lava to snatch anything flying overhead. They propel themselves by emitting superheated gas and use their claw-shaped fins to steer. The Squeept\'s evolved eyes can see the high end of the electromagnetic spectrum, making them useful both inside the lava and without.</string>
+  <string name="violaDescription">These Multiviola larvae are covered in flames and crawl about the burning stones. They are like, Zoomers, Novas, and Zeela, as they can crawl pretty much anywhere. They aimlessly wander the caverns of Ridley\'s Hideout, searching for prey, which they will attack and consume voraciously. If you stare into its flames, you can see a sinister face within.</string>
+  <string name="waverDescription">These hardy insectoid creatures travel in swarms and flutter about in irregular patterns, attacking anything that comes within their path. Wavers will ram their prey, cracking bones, armor, or carapace with their sturdy shells, then extend a proboscus-like organ into the victim’s body and suck out fluids. The Waver\'s mandibles can be used to enlarge the wound for easier feeding. Much speculation was made regarding the Waver\'s flight capabilities until a Galactic Federation science team revealed their shells are full of a helium-like gas that is activated once exposed to air. The gas keeps the Waver aloft and is carefully regulated to maintain altitude. The gas is also excreted to provide thrust, allowing it to achieve speeds in excess of 70kph. As a result, Wavers have a high metabolism and are thus very aggressive.</string>
+  <string name="zebDescription">THE MOST annoying ass little fuckers in the whole game. Zebs live in Brinstar, and attack by flying up out of pipes, one at a time, then making a b-line towards their target. I can\'t stand these sons of bitches.</string>
+  <string name="zeelaDescription">A crustacean-like creature with enormous, bulging eyeballs. Zeelas, like Zoomers, and Novas, can crawl anywhere, and are easy to dispatch. Zeelas have extremely good vision, and their special eyes allow them to gain a 360-degree view of their surroundings.</string>
+  <string name="zoomerDescription">The very first enemies encountered and could be considered the \"Goomba\" of the Metroid series. One could imagine a Zoomer as a giant insect the size of a small dog, with foot-long spikes protruding from its back. The Zoomer is a very adaptable species in that they can live and climb almost anywhere, which is surprising despite their large size.</string>
+  <string name="zebboDescription">These giant wasp-like creatures nest within ventilation shafts, though they naturally build hives in narrow rock fissures. Zebbos can detect vibrations in the air and will aggressively attack anything that comes close to their hives. These annoying little bastards make the b-line attacks similar to other hive-based creatures like the Zebs.</string>
+
+  <!-- song names -->
+  <string name="songTitle">Title Screen</string>
+  <string name="songEnergize">Energize!</string>
+  <string name="songSecret">Secret!</string>
+  <string name="songPowerUp">Power Up!</string>
+
+  <string name="songBrinstar">Brinstar</string>
+  <string name="songNorfair">Norfair</string>
+  <string name="songKraidsLair">Kraid\'s Lair</string>
+  <string name="songRidleysLair">Ridley\'s Lair</string>
+  <string name="songTourian">Tourian</string>
+  <string name="songMotherBrain">Mother Brain</string>
+  <string name="songEscape">Escape!</string>
+
+  <string name="songEnding">Ending</string>
+</resources>

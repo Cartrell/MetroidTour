@@ -1,0 +1,60 @@
+<resources>
+
+  <!-- Base application theme. -->
+  <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+  </style>
+
+  <!-- Text appearance style for a category tab -->
+  <style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
+    <item name="android:textColor">#A8A19E</item>
+    <item name="android:fontFamily">@font/modenine</item>
+  </style>
+
+  <!-- style for activity header text -->
+  <style name="ActivityHeaderText">
+    <item name="android:layout_margin">@dimen/smallMargin</item>
+    <item name="android:textSize">@dimen/textSizeActivityName</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textColor">@android:color/white</item>
+    <item name="android:layout_centerHorizontal">true</item>
+    <item name="android:fontFamily">@font/modenine</item>
+  </style>
+
+  <!-- style for description text of the category item shown on a category activity -->
+  <style name="CategoryItemDescriptionText">
+    <item name="android:textSize">@dimen/textSizeDescription</item>
+    <item name="android:textColor">@android:color/white</item>
+    <item name="android:fontFamily">@font/modenine</item>
+  </style>
+
+  <!-- style for a tab that displays a category name -->
+  <style name="CategoryTab" parent="Widget.Design.TabLayout">
+    <item name="tabIndicatorColor">@android:color/white</item>
+    <item name="tabSelectedTextColor">@android:color/white</item>
+    <item name="tabTextAppearance">@style/CategoryTabTextAppearance</item>
+    <item name="tabBackground">@color/colorPrimary</item>
+  </style>
+
+  <!-- style for category list item name -->
+  <style name="CategoryListItemName">
+    <item name="android:layout_margin">@dimen/smallMargin</item>
+    <item name="android:layout_centerVertical">true</item>
+    <item name="android:layout_toRightOf">@id/icon_image</item>
+    <item name="android:textSize">@dimen/textSizeItemName</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textColor">@android:color/white</item>
+    <item name="android:fontFamily">@font/modenine</item>
+  </style>
+
+  <!-- style for category list item icon -->
+  <style name="CategoryListItemIcon">
+    <item name="android:layout_width">@dimen/iconSize</item>
+    <item name="android:layout_height">@dimen/iconSize</item>
+    <item name="android:layout_margin">@dimen/smallMargin</item>
+  </style>
+
+</resources>

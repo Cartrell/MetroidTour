@@ -1,0 +1,16 @@
+<animation-list
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:oneshot="false">
+    <item android:drawable="@drawable/enemy_waver0" android:duration="2000" />
+    <item android:drawable="@drawable/enemy_waver1" android:duration="500" />
+    <item android:drawable="@drawable/enemy_waver2" android:duration="500" />
+    <item android:drawable="@drawable/enemy_waver1" android:duration="500" />
+    <item android:drawable="@drawable/enemy_waver0" android:duration="1000" />
+    <item android:drawable="@drawable/enemy_waver1" android:duration="100" />
+    <item android:drawable="@drawable/enemy_waver2" android:duration="100" />
+    <item android:drawable="@drawable/enemy_waver1" android:duration="100" />
+    <item android:drawable="@drawable/enemy_waver0" android:duration="250" />
+    <item android:drawable="@drawable/enemy_waver1" android:duration="1500" />
+    <item android:drawable="@drawable/enemy_waver2" android:duration="5000" />
+    <item android:drawable="@drawable/enemy_waver1" android:duration="1500" />
+</animation-list>

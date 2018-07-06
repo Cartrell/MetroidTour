@@ -1,0 +1,25 @@
+<animation-list
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:oneshot="false">
+    <item android:drawable="@drawable/enemy_squeept0" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept1" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept0" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept1" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept0" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept1" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept0" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept1" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept0" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept1" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept0" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept1" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept0" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept1" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept0" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept1" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept0" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept1" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept0" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept1" android:duration="50" />
+    <item android:drawable="@drawable/enemy_squeept2" android:duration="1000" />
+</animation-list>
