@@ -89,7 +89,7 @@ public final class EnemiesData extends BaseItemsData {
       R.drawable.enemy_reo_icon, R.drawable.enemy_reo_animation,
       R.drawable.background_brinstar);
 
-    addItem(context, R.string.ridley, R.string.ridleysLairDescription,
+    addItem(context, R.string.ridley, R.string.ridleyDescription,
       R.drawable.enemy_ridley_icon, R.drawable.enemy_ridley_animation,
       R.drawable.background_ridleys_lair);
 
